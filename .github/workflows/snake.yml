@@ -9,6 +9,11 @@ jobs:
   generate:
     runs-on: ubuntu-latest
     steps:
+      # Step 1: Checkout del repository
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      # Step 2: Genera le animazioni SVG
       - uses: Platane/snk@v3
         with:
           github_user_name: lvdoviko
@@ -16,6 +21,7 @@ jobs:
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
+      # Step 3: Deploy su branch output
       - name: Deploy animation to GitHub Pages
         uses: JamesIves/github-pages-deploy-action@v4
         with:
@@ -23,4 +29,3 @@ jobs:
           folder: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
