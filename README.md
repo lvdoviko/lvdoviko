@@ -47,7 +47,7 @@
 
 ## 🐍 GitHub Contributions
 
-![GitHub Snake](https://github.com/lvdoviko/lvdoviko/blob/output/github-contribution-grid-snake.svg)
+![snake](https://github.com/lvdoviko/lvdoviko/blob/output/github-contribution-grid-snake-dark.svg?palette=github-dark)
 
 ---
 
