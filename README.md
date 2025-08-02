@@ -1,4 +1,4 @@
-## Hi there 👋
+![snake gif](https://github.com/lvdoviko/lvdoviko/blob/output/github-contribution-grid-snake-dark.svg?palette=github-dark)
 
 <!--
 **lvdoviko/lvdoviko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
