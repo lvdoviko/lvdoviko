@@ -14,6 +14,16 @@
 
 ## 🧠 What I Do
 
+<p align="center">
+  <a href="https://www.miptechnologies.tech" target="_blank">
+    <img src="https://github.com/lvdoviko/lvdoviko/blob/main/BlockMIP_F.png?raw=true" alt="Mip Technologies Logo" width="160"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.albatrove.com" target="_blank">
+    <img src="https://github.com/lvdoviko/lvdoviko/blob/main/Albatrove-Logo.png?raw=true" alt="Albatrove Logo" width="160"/>
+  </a>
+</p>
+
 - 🛠️ **Co-founder @ [MIP Technologies Ltd.](https://www.miptechnologies.tech)** (London, since May 2025)  
   We build tailor-made **AI systems** for businesses — from fine-tuned LLMs to smart API integrations and end-to-end software optimization.
 
