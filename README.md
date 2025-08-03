@@ -2,7 +2,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ludovicosperanza)
 [![Website](https://img.shields.io/badge/Website-miptechnologies.tech-24292f?style=flat-square&logo=google-chrome&logoColor=white)](https://www.miptechnologies.tech)
-[![Email](https://img.shields.io/badge/Email-ludovico%40miptechnologies.tech-d14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ludovico@albatrove.com)
+[![Email](https://img.shields.io/badge/Email-ludovico%40albatrove.com-d14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ludovico@albatrove.com)
 
 ---
 
