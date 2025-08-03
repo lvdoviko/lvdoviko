@@ -14,15 +14,12 @@
 
 ## 🧠 What I Do
 
-<p align="center">
-  <a href="https://www.miptechnologies.tech" target="_blank">
-    <img src="https://github.com/lvdoviko/lvdoviko/blob/main/BlockMIP_F.png?raw=true" alt="Mip Technologies Logo" width="160"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://www.albatrove.com" target="_blank">
-    <img src="https://github.com/lvdoviko/lvdoviko/blob/main/Albatrove-Logo.png?raw=true" alt="Albatrove Logo" width="160"/>
-  </a>
-</p>
+- <img src="https://github.com/lvdoviko/lvdoviko/blob/main/BlockMIP_F.png?raw=true" alt="Mip Technologies Logo" width="20"/> **[MIP Technologies Ltd.](https://www.miptechnologies.tech)** — *Co-founder (London, since May 2025)*  
+  We build tailor-made **AI systems** for businesses — from fine-tuned LLMs to smart API integrations and end-to-end software optimization.
+
+- <img src="https://github.com/lvdoviko/lvdoviko/blob/main/Albatrove-Logo.png?raw=true" alt="Albatrove Logo" width="20"/> **[Albatrove](https://www.albatrove.com)** — *Founded in 2023*  
+  The **first fully automated AI Travel Planner**, reinventing trip planning with intelligent orchestration and dynamic user interaction.
+
 
 - 🛠️ **Co-founder @ [MIP Technologies Ltd.](https://www.miptechnologies.tech)** (London, since May 2025)  
   We build tailor-made **AI systems** for businesses — from fine-tuned LLMs to smart API integrations and end-to-end software optimization.
