@@ -20,13 +20,6 @@
 - <img src="https://github.com/lvdoviko/lvdoviko/blob/main/Albatrove-Logo.png?raw=true" alt="Albatrove Logo" width="20"/> **[Albatrove](https://www.albatrove.com)** — *Founded in 2023*  
   The **first fully automated AI Travel Planner**, reinventing trip planning with intelligent orchestration and dynamic user interaction.
 
-
-- 🛠️ **Co-founder @ [MIP Technologies Ltd.](https://www.miptechnologies.tech)** (London, since May 2025)  
-  We build tailor-made **AI systems** for businesses — from fine-tuned LLMs to smart API integrations and end-to-end software optimization.
-
-- 🌍 Since 2023, developing [**Albatrove**](https://www.albatrove.com):  
-  The **first fully automated AI Travel Planner**, reinventing trip planning with intelligent orchestration and dynamic user interaction.
-
 ---
 
 ## 💻 Tech Stack
